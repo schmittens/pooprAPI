@@ -1,5 +1,10 @@
 # pooprapi
 
+Poopr is a prototype project to create an open database and interface for locations of public restrooms. It consists of three components:
+- App (iOS at the moment)
+- API (Python)
+- Database (MySQL)
+
 API built on Python 3.5 and Flask.
 
 Go-between for Poopr iOS app and MySQL database. The goal is to host it on a DigitalOcean droplet, together with the actual database.
